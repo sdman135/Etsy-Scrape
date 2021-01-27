@@ -124,6 +124,7 @@ Thumbs.db
 =======
 Ignore/keys.py
 Ignore/.DS_Store
-
+keys.py
+*.py
 #*.csv
 >>>>>>> parent of e9e4b77... Update .gitignore
