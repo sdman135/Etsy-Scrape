@@ -122,8 +122,8 @@ Thumbs.db
 .pptx
 .pdf
 =======
-Ignore/keys.py
-Ignore/.DS_Store
+Ignore/*
+Ignore/
 keys.py
 *.py
 #*.csv
