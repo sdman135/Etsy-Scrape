@@ -122,7 +122,7 @@ Thumbs.db
 .pptx
 .pdf
 =======
-Ignore/*
+Ignore/keys.py
 Ignore/.DS_Store
 
 #*.csv
