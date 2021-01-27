@@ -1,7 +1,8 @@
 Ignore/*
 /Ignore/
-keys.py
-*.py
+/keys.*
+/*.py
+/.py
 
 
 /data
